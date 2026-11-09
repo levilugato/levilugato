@@ -1,4 +1,4 @@
-# Hi, I’m Levi 👋
+# Hi, I’m Levi Lugato 👋
 
 <img src="./profile.svg" alt="Levi Lugato — languages and tools" width="1440" />
 
